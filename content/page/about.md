@@ -6,7 +6,7 @@ comments: false
 images:
 ---
 
-![avatar](/avatar.png)
+![avatar](/avatar.gif)
 
 A iniciativa #chamaasminas foi feita por conta de uma campanha criada pelo Jeferson Noronha e Gomex (Rafael Gomes), onde deram o curso IAC Expert do [LinuxTips](https://www.linuxtips.io/) totalmente de graça para mulheres.
 
