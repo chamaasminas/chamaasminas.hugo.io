@@ -15,8 +15,10 @@ Esse primeiro post é para explicar para as gurias que estão juntas no making o
 
 1- Clonar o nosso repo do [Blog](https://github.com/chamaasminas/chamaasminas.hugo.io) no diretorio que vc desejar
 
+1.1 - Clonar o repositorio do nosso [githubpages](https://github.com/chamaasminas/chamaasminas.github.io) dentro do repositorio do **BLOG**
 
-2- Entrar no diretorio **do projeto**
+
+2- Entrar no diretorio **do BLOG**
 
 3- Você pode rodar no terminal ```hudo server -D ``` e vai conseguir visualizar todas suas modificações no localhost:/1313
 
@@ -35,3 +37,5 @@ O draft está como **false** pois assim sempre que eu pedir pro o post ser publi
 Abaixo do **"---"** você poderá escrever seu post
 
 6- Vamos Publicar, para isso é só rodar no seu terminal ```hugo -d chamaasminas.github.io```
+
+7- Será necessário comittar tanto o código do [Blog](https://github.com/chamaasminas/chamaasminas.hugo.io) e do [githubpages](https://github.com/chamaasminas/chamaasminas.github.io)
