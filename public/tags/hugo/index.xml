@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Chama as Minas</title>
+    <link>https://chamaasminas.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Chama as Minas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 05 Aug 2020 20:21:42 +0100</lastBuildDate>
+    
+	<atom:link href="https://chamaasminas.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como postar no nosso blog</title>
+      <link>https://chamaasminas.github.io/posts/post1/</link>
+      <pubDate>Wed, 05 Aug 2020 20:21:42 +0100</pubDate>
+      
+      <guid>https://chamaasminas.github.io/posts/post1/</guid>
+      <description>Esse primeiro post é para explicar para as gurias que estão juntas no making off do #chamaasminas como criar posts no nosso blog ˆ-ˆ
+Antes de tudo instalar o HUGO
+1- Clonar o nosso repo do Blog no diretorio que vc desejar
+1.1 - Clonar o repositorio do nosso githubpages dentro do repositorio do BLOG
+2- Entrar no diretorio do BLOG
+3- Você pode rodar no terminal hudo server -D e vai conseguir visualizar todas suas modificações no localhost:/1313</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Chama as Minas</title>
+    <link>https://chamaasminas.github.io/page/</link>
+    <description>Recent content in Pages on Chama as Minas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 12 May 2020 01:00:34 +0100</lastBuildDate>
+    
+	<atom:link href="https://chamaasminas.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quem Somos?</title>
+      <link>https://chamaasminas.github.io/page/about/</link>
+      <pubDate>Tue, 12 May 2020 01:00:34 +0100</pubDate>
+      
+      <guid>https://chamaasminas.github.io/page/about/</guid>
+      <description>A iniciativa #chamaasminas foi feita por conta de uma campanha criada pelo Jeferson Noronha e Gomex (Rafael Gomes), onde deram o curso IAC Expert do LinuxTips totalmente de graça para mulheres.
+A campanha foi um sucesso é claro, e com isso foi criado um grupo no telegram para as mulheres que estavam matriculadas nessa nova turma do curso IAC Expert.
+Como nem tudo são flores, nosso grupo conseguiu notar que havia uma necessidade de trazer tópicos mais básicos para ajudar as pessoas que não estavam conseguindo acompanhar o curso, muitas delas nem são ainda da aréa de Tecnologia mas querem entrar nesse mercado e foi assim que criamos esse blog, para ajudar você e outras mulheres nesse mundão.</description>
+    </item>
+    
+  </channel>
+</rss>

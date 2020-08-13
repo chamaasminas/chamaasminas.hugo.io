@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Chama as Minas</title>
+		<link>https://chamaasminas.github.io/posts/</link>
+		<description>Recent content in Posts on Chama as Minas</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Wed, 05 Aug 2020 20:21:42 +0100</lastBuildDate>
+		<atom:link href="https://chamaasminas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Como postar no nosso blog</title>
+			<link>https://chamaasminas.github.io/posts/post1/</link>
+			<pubDate>Wed, 05 Aug 2020 20:21:42 +0100</pubDate>
+			
+			<guid>https://chamaasminas.github.io/posts/post1/</guid>
+			<description>Esse primeiro post é para explicar para as gurias que estão juntas no making off do #chamaasminas como criar posts no nosso blog ˆ-ˆ
+Antes de tudo instalar o HUGO
+1- Clonar o nosso repo do Blog no diretorio que vc desejar
+1.1 - Clonar o repositorio do nosso githubpages dentro do repositorio do BLOG
+2- Entrar no diretorio do BLOG
+3- Você pode rodar no terminal hudo server -D e vai conseguir visualizar todas suas modificações no localhost:/1313</description>
+			<content type="html"><![CDATA[<p>Esse primeiro post é para explicar para as gurias que estão juntas no making off do #chamaasminas como criar posts no nosso blog <strong>ˆ-ˆ</strong></p>
+
+<p><strong>Antes</strong> de tudo instalar o <a href="https://gohugo.io/getting-started/quick-start/">HUGO</a></p>
+
+<p>1- Clonar o nosso repo do <a href="https://github.com/chamaasminas/chamaasminas.hugo.io">Blog</a> no diretorio que vc desejar</p>
+
+<p>1.1 - Clonar o repositorio do nosso <a href="https://github.com/chamaasminas/chamaasminas.github.io">githubpages</a> dentro do repositorio do <strong>BLOG</strong></p>
+
+<p>2- Entrar no diretorio <strong>do BLOG</strong></p>
+
+<p>3- Você pode rodar no terminal <code>hudo server -D</code> e vai conseguir visualizar todas suas modificações no localhost:/1313</p>
+
+<p>4- Para criar outro post no terminal digite <code>hugo new post/&lt;nome-do-post-curto&gt;.md</code>
+No diretório será criado seu post
+<img src="/postex.png" alt="post" /></p>
+
+<p>5- Quando clicar no seu post terá uma estrutura +- assim
+<img src="/structure-post.png" alt="structure" /></p>
+
+<p>Em <strong>&ldquo;Title&rdquo;</strong> você pode renomear pro título que quiser isso não influenciará em nada</p>
+
+<p>O draft está como <strong>false</strong> pois assim sempre que eu pedir pro o post ser publicado ele não ficará em draft</p>
+
+<p>Abaixo do <strong>&rdquo;&mdash;&rdquo;</strong> você poderá escrever seu post</p>
+
+<p>6- Vamos Publicar, para isso é só rodar no seu terminal <code>hugo -d chamaasminas.github.io</code></p>
+
+<p>7- Será necessário comittar tanto o código do <a href="https://github.com/chamaasminas/chamaasminas.hugo.io">Blog</a> e do <a href="https://github.com/chamaasminas/chamaasminas.github.io">githubpages</a></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
